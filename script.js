@@ -1,0 +1,1 @@
+document.querySelectorAll('.card').forEach(c=>c.onmousemove=e=>{c.style.transform='translateY(-6px)';});
